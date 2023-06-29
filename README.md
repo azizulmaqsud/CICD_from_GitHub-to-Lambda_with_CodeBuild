@@ -1,4 +1,4 @@
-# CICD_from_GitHub2Lambda_with_CodeBuild
+# CICD_from_GitHub_to_Lambda_with_CodeBuild
 # Steps
 - Create a repository on GitHub
 - Git Clone that URL at the local machine folder
