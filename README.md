@@ -11,4 +11,4 @@
 - Test Lambda Function
 - Status 200 ensured
 
-# Sucess !!
+# Success !!
